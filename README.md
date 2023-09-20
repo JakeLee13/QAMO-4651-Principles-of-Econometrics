@@ -3,6 +3,7 @@
 
 Using python for the problem sets, we cover the following topics: 
  - Introduction to Econometrics
+ - Understanding a Regression Summary
  - Simple Linear Regression
  - Multiple Linear Regression
 
