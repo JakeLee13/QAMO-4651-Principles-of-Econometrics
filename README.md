@@ -1,5 +1,5 @@
-# QAMO_4651_Problem_Sets
-### Practice problem sets for each week from QAMO/ECON 4651: Econometrics for BEA
+# Econometrics_Problem_Sets
+### Practice problem sets for each week from QAMO/ECON Courses at the University of Utah:
 
 Using python for the problem sets, we cover the following topics: 
  - Introduction to Econometrics
@@ -9,5 +9,7 @@ Using python for the problem sets, we cover the following topics:
  - Qualitative Explanatory Variables
  - Specification Issues
  - Heteroskedasticity
+ - Consistency of an estimator
+ - and more
 
 See Each Problem Set above by selecting each respective folder including data and a jupyter notebook
