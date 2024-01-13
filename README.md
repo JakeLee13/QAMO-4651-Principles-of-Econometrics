@@ -1,4 +1,4 @@
-# Econometrics_Problem_Sets
+# Econometrics Problem Sets
 ### Practice problem sets for each week from QAMO/ECON Courses at the University of Utah:
 
 Using python for the problem sets, we cover the following topics: 
